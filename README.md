@@ -1,25 +1,42 @@
-# Prework - *Name of App Here*
+# CodePath iOS Development: Pre-work
 
 Submitted by: **Nolan Lwin**
 
-**Name of your app** is an app that... [TODO] 
+This pre-work is an app that changes the background color of the app through an interactive slider and the text color through the sleek button.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] A screen with four distinct labels, a user-friendly slider, and a sleek button are added.
+- [x] Swiping the slider changes the background color of an app through a vivid range of RGB colors and lets users select and visualize their preferred hue in real-time.
+- [x] Tapping the button changes the text color between sharp black and crisp white and lets users adapt to their preference against various background tones.
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+![iOS-Pre-Work](https://github.com/i-am-nolan25/CodePath-iOS-Pre-Work/assets/113712250/9a08a168-0fe5-4fd8-9266-c1d4bdae34a4)
 
 ## App Brainstorming (Step 4)
+
+App: Duolingo
+
+- **Bite-Sized Lessons**: Offers short, manageable lessons that make language learning interactive and enjoyable.
+- **Interactive Gameplay**: Engages users with fun and interactive exercises, enhancing the learning experience.
+- **Challenges and Badges**: Provides motivation through challenges and earning badges, encouraging consistent practice and progress.
+- **Leaderboard Feature**: Incorporates a game-like leaderboard, fostering a competitive and engaging environment.
+- **Multiple Language Options**: Offers a wide range of languages to learn, catering to diverse linguistic interests.
+- **Attractive Graphics and User Interface**: Features appealing graphics and a user-friendly interface, making navigation and learning seamless.
+- **Mascot - Duo**: The app's friendly mascot, Duo, adds a charming and relatable aspect to the learning journey.
+
+App: Coursera
+
+App:
+
+App Idea:
+
+Key Features:
 
 ## Notes
 
